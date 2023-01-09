@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/m1l1-quickstart/build/
